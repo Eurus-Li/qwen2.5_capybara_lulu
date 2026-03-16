@@ -1,0 +1,12 @@
+﻿{
+  "seeds": [
+    "https://example.com/lulu/gallery",
+    "https://example.com/lulu/posts"
+  ],
+  "allow_domains": [
+    "example.com"
+  ],
+  "max_depth": 1,
+  "same_domain_only": true,
+  "image_regex": "lulu|capybara"
+}

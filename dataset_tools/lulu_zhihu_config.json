@@ -1,0 +1,12 @@
+﻿{
+  "seeds": [
+    "https://zhuanlan.zhihu.com/p/2014706931546228287"
+  ],
+  "allow_domains": [
+    "zhihu.com",
+    "zhimg.com"
+  ],
+  "max_depth": 0,
+  "same_domain_only": true,
+  "image_regex": "zhimg|lulu|capybara"
+}

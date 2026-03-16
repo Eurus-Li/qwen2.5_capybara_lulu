@@ -1,0 +1,17 @@
+﻿# Raw and generated dataset assets
+/data/
+/training/captions/
+/training/dataset/
+/training/outputs/
+
+# External cloned repositories
+/external/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local environment and logs
+*.log
+.DS_Store
+Thumbs.db
