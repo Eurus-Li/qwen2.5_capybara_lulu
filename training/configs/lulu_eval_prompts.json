@@ -1,0 +1,38 @@
+﻿[
+  {
+    "id": "lulu_bathing",
+    "prompt": "lulu the capybara, cute cartoon capybara character, round face, brown fur, small black eyes, tiny rounded ears, short limbs, soft warm brown and beige color palette, happily bathing in a round tub, splashing water, cozy bathroom, expressive joyful face",
+    "seed": 11,
+    "check": ["looks like Lulu", "brown/beige palette stays stable", "clear bathing action", "joyful expression"]
+  },
+  {
+    "id": "lulu_working",
+    "prompt": "lulu the capybara, cute cartoon capybara character, round face, brown fur, small black eyes, tiny rounded ears, short limbs, soft warm brown and beige color palette, working at a desk with a laptop, office setting, slightly tired but focused expression",
+    "seed": 22,
+    "check": ["looks like Lulu", "desk and laptop visible", "office scene reads clearly", "expression fits working mood"]
+  },
+  {
+    "id": "lulu_upset",
+    "prompt": "lulu the capybara, cute cartoon capybara character, round face, brown fur, small black eyes, tiny rounded ears, short limbs, soft warm brown and beige color palette, standing with crossed arms, annoyed expression, simple indoor background",
+    "seed": 33,
+    "check": ["looks like Lulu", "annoyed mood is obvious", "pose is readable", "palette stays stable"]
+  },
+  {
+    "id": "lulu_sleeping",
+    "prompt": "lulu the capybara, cute cartoon capybara character, round face, brown fur, small black eyes, tiny rounded ears, short limbs, soft warm brown and beige color palette, sleeping under a blanket, cozy bedroom, peaceful expression",
+    "seed": 44,
+    "check": ["looks like Lulu", "sleeping action is obvious", "cozy bedroom reads clearly", "peaceful expression"]
+  },
+  {
+    "id": "lulu_snacking",
+    "prompt": "lulu the capybara, cute cartoon capybara character, round face, brown fur, small black eyes, tiny rounded ears, short limbs, soft warm brown and beige color palette, happily eating a snack, kitchen table, cheerful expression",
+    "seed": 55,
+    "check": ["looks like Lulu", "snacking action is obvious", "scene is readable", "cheerful expression"]
+  },
+  {
+    "id": "lulu_surprised",
+    "prompt": "lulu the capybara, cute cartoon capybara character, round face, brown fur, small black eyes, tiny rounded ears, short limbs, soft warm brown and beige color palette, surprised expression, paws raised, simple clean background",
+    "seed": 66,
+    "check": ["looks like Lulu", "surprised mood is obvious", "pose is readable", "clean silhouette"]
+  }
+]
